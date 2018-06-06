@@ -1,0 +1,3 @@
+特定のレコードの削除
+①発行した SQL 文
+delete from profiles where birthday='2000-12-24';

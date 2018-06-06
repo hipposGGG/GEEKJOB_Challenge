@@ -1,0 +1,4 @@
+特定のレコードの更新
+①発行した SQL 文
+update profiles set name='yoshida sigeru' 
+	where name='suzuki sigeru';
