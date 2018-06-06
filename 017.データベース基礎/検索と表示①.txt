@@ -1,0 +1,4 @@
+ŒŸõ‚Æ•\¦ ‰Û‘è
+‡@”­s‚µ‚½ SQL •¶C
+select * from profiles where profilesid=3 ;
+
